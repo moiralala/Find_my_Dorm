@@ -1,4 +1,5 @@
-# UIUC Housing and Transportation Explorer
+# Find my Dorm 
+Navigate Your Next Home at UIUC
 
 ## Motivation
 
